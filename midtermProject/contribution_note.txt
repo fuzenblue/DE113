@@ -1,0 +1,25 @@
+
+66102010590 Areeya Buranthai			ทำสไลด์/พรีเซ้นพาร์ท MyPoint/ implemented MyPoint class
+66102010583 Piyathida Maha			พรีเซ้นพาร์ท TestMyPoint/d implemented TestMyPoint class
+66102010589 Amornthida Butwong		พรีเซ้นพาร์ท TestMyTriangle/designed and implemented MyTriangle class
+66102010189 Somprat Boorana		ทำคลิป/พรีเซ้นพาร์ท TestMyTriangle/ implemented TestMyTriangle class
+
+
+Contribution Note :
+
+In this project, We contributed to the implementation of the MyTriangle and MyPoint classes. Below are the key aspects of my contribution:
+
+1. **MyTriangle Class:**
+    - We designed and implemented the MyTriangle class according to the provided class diagram.
+    - Created three private instance variables `v1`, `v2`, and `v3` to represent the vertices of the triangle using instances of the MyPoint class.
+    - Implemented constructors to initialize a MyTriangle object with either sets of coordinates or instances of MyPoint.
+    - Developed a toString() method to provide a string description of the MyTriangle instance in the specified format.
+    - Implemented a getPerimeter() method to calculate and return the perimeter of the triangle using the distance() method of MyPoint.
+    - Created a printType() method to classify the triangle as "equilateral", "isosceles", or "scalene" based on its side lengths.
+
+2. **TestMyTriangle Driver Class:**
+    - Developed a test driver class called TestMyTriangle to thoroughly test all the public methods defined in the MyTriangle class.
+    - Designed test cases to verify the correctness and robustness of each method.
+    - Ensured that edge cases and boundary conditions were adequately covered in the testing process.
+
+Our contributions to these classes aim to enhance the functionality and reliability of the project, ensuring that it meets the specified requirements and delivers accurate results.
