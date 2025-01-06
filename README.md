@@ -1,5 +1,3 @@
-# Project Summary
-
 This repository contains two projects developed for academic purposes. The **Midterm Project** focuses on implementing and testing geometric classes, while the **Final Project** involves building a text-based search engine for analyzing word frequencies in documents.
 
 ---
